@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "578702459749",
+    "firebase_url": "https://pharma-3db00.firebaseio.com",
+    "project_id": "pharma-3db00",
+    "storage_bucket": "pharma-3db00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578702459749:android:e57c30a41606257bf8d78c",
+        "android_client_info": {
+          "package_name": "com.gihan.pharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578702459749-gccmsb7l9drejjnsapmhfkmpq6mjbt4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gihan.pharma",
+            "certificate_hash": "0cadb0de3a9274b35f6a66ad2ce9dd1192cf91ed"
+          }
+        },
+        {
+          "client_id": "578702459749-j0iv8mclvlcnuhiq2hknsp1e80s7cus8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9Sm8bz-mNk0VlbuAyKfJbkchd7Lyk5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578702459749-j0iv8mclvlcnuhiq2hknsp1e80s7cus8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
