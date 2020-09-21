@@ -23,7 +23,6 @@ class MainViewModel : ViewModel() {
     fun getPostsData() {
 
         val data = ArrayList<Post>()
-        //do some background work
         database = Firebase.database.reference.child("posts")
         database.addValueEventListener(object : ValueEventListener {
             override fun onDataChange(dataSnapshot: DataSnapshot) {

@@ -1,15 +1,13 @@
 package com.qdreamcaller.creativemindstask.ui.base
 
 import android.app.Application
-import com.qdream.retrofit_kotlin_coroutines_example.di.appModules
-import com.qdream.retrofit_kotlin_coroutines_example.di.viewModelModule
-
+import appModules
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger
-
 import org.koin.core.context.startKoin
+import viewModelModule
 
-class App : Application() {
+  class App : Application() {
 
     override fun onCreate() {
         super.onCreate()
